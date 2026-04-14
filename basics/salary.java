@@ -1,3 +1,4 @@
+package basics;
 
 class salary {
     public static void main(String[] args) {

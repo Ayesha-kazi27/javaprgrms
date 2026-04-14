@@ -1,3 +1,4 @@
+package basics;
 import java.util.Scanner;
 class Add1 {
     public static void main(String[] args) {
