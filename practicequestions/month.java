@@ -1,4 +1,6 @@
-//Implement java program to accept and display the month number. Throw an exception if an improper month number is entered. Make your own exception class to handle this exception.
+//Implement java program to accept and display the month number.
+//Throw an exception if an improper month number is entered. 
+//Make your own exception class to handle this exception.
 import java.util.*;
 
 class  InvalidMonthException extends Exception {

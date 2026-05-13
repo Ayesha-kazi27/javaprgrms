@@ -1,4 +1,5 @@
-//Create threads such that one thread will print even number and another will print odd number in an ordered fashion
+//Create threads such that one thread will print even number and another 
+// will print odd number in an ordered fashion
 import java.util.*;
 
 class even extends Thread{

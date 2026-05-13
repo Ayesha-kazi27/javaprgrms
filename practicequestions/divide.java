@@ -1,4 +1,5 @@
-//Implement division of two numbers accepted from user. Handle the divide by zero exception using try-catch-finally block
+//Implement division of two numbers accepted from user.
+//  Handle the divide by zero exception using try-catch-finally block
 
 import java.util.*;
 
