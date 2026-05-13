@@ -1,5 +1,5 @@
+//Write a java program to check whether the entered number is prime or not using method. (Take number from user).
 import java.util.*;
-
 public class Q1d {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

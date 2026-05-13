@@ -1,3 +1,4 @@
+//Write a java program to find the smallest number in 1-D array.(Take elements of array from user).
 import java.util.*;
 
 public class Q1c {
