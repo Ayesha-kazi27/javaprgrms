@@ -1,5 +1,4 @@
-//Write a program to demonstrate method overloading by overloading the methods for calculating volume of cylinder, cube and cuboid(Take elements of array from user)
-import java.util.*;
+//Write a program to demonstrate method overloading by overloading the methods for calculating volume of cylinder, cube and cuboid
 
 public class Q4d {
     double vol(double side){
